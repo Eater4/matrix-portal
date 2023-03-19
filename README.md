@@ -1,2 +1,3 @@
 # matrix-portal
-display currently playing track
+in progress
+
