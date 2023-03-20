@@ -9,7 +9,7 @@ from adafruit_matrixportal.network import Network
 network = Network(status_neopixel=board.NEOPIXEL, debug=True)
 
 SPOTIFY_GET_CURRENT_TRACK_URL = "https://api.spotify.com/v1/me/player/currently-playing"
-ACCESS_TOKEN = "BQDiy2hZ9T-VuaGNXzF8zesqRE846dJMMY-Gs5r0pexOBmrcpr1lGJLDHOIHtIq0AZRGLbUoAgvRrzmtGAJaapyKDLvuuIC9Ro4r9DlgPkUdwfXNVgKUu47pabGglrG8BAhVDrIgLQntg045GjL5EXlu-UCXPVdR3vBKQS8N8WYh4ssL"
+ACCESS_TOKEN = "access token"
 
 
 def get_current_track(access_token):
